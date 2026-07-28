@@ -16,7 +16,7 @@ The Report aims to answer: which industries and sectors see the most severe inci
 -	Data contains: Incident date, employer, location, industry sector, severity outcomes (hospitalisation/amputation/eye loss), and injury classification (type, body part, cause) across ~18,000 records from 2023–2024.
 
 4.	Steps Followed
-5.	
+   
 •	Sourced OSHA's Severe Injury Report dataset from data.gov and identified it as suitable for construction and MEP focused safety analysis.
 
 •	Cleaned data in Excel by removing irrelevant columns such as address details, raw classification codes, and inspection numbers, fixing data type inconsistencies in dates and NAICS codes, correcting misaligned records, and resolving blank or null values.
@@ -31,7 +31,7 @@ The Report aims to answer: which industries and sectors see the most severe inci
 
 
 5.	Key Insights
-6.	
+   
 •  Fractures and amputations dominate severity. Fractures account for 6,913 incidents (38.6%) and amputations 4,908 (27.4%) — together, two out of every three severe injuries in the dataset.
 
 •  Hands and fingers are the most frequently injured body part, involved in 5,795 incidents (32.3%) — more than triple the next-highest category (Multiple/Whole Body, 2,027). 
@@ -53,7 +53,7 @@ The Report aims to answer: which industries and sectors see the most severe inci
 •  Manufacturing and Construction together account for over half of all incidents outside the general "Other" sector bucket — reinforcing that heavy-industry and physical-labor sectors carry the bulk of severe-injury risk.
 
 
-8.	Files Included
+6.	Files Included
 -	‘OSHA's Severe Injury Report (SIR) Cleaned Dataset.xlsx’ – Cleaned data worksheet named OSHA's Severe Injury Rprt Clean and Initial Data Worksheet
 
 -	‘OSHA Severe Injury Report.pbix’ – Power BI Report
