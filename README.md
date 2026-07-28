@@ -17,10 +17,15 @@ The Report aims to answer: which industries and sectors see the most severe inci
 
 4.	Steps Followed
 •	Sourced OSHA's Severe Injury Report dataset from data.gov and identified it as suitable for construction and MEP focused safety analysis.
+
 •	Cleaned data in Excel by removing irrelevant columns such as address details, raw classification codes, and inspection numbers, fixing data type inconsistencies in dates and NAICS codes, correcting misaligned records, and resolving blank or null values.
+
 •	Built category mapping tables to simplify complex classification fields (injury type, body part, event, and source) from over 2,000 detailed codes into readable general categories. 
+
 •	Imported the cleaned dataset and mapping tables into Power BI, linking them through table relationships. 
+
 •	Added calculated columns and DAX measures for sector classification and ranking analysis.
+
 •	Built dashboard pages using bar charts, trend lines, cross tab and heatmap visuals, KPI cards, and slicers for interactive filtering.
 
 
