@@ -32,25 +32,25 @@ The Report aims to answer: which industries and sectors see the most severe inci
 
 5.	Key Insights
    
-•  Fractures and amputations dominate severity. Fractures account for 6,913 incidents (38.6%) and amputations 4,908 (27.4%) — together, two out of every three severe injuries in the dataset.
+•  Fractures and amputations dominate severity. Fractures account for 6,913 incidents (38.6%) and amputations 4,908 (27.4%) together, two out of every three severe injuries in the dataset.
 
-•  Hands and fingers are the most frequently injured body part, involved in 5,795 incidents (32.3%) — more than triple the next-highest category (Multiple/Whole Body, 2,027). 
+•  Hands and fingers are the most frequently injured body part, involved in 5,795 incidents (32.3%) more than triple the next-highest category (Multiple/Whole Body, 2,027). 
 
 •  Being struck by an object is the single leading cause of severe injury (4,259 incidents, 23.8%), followed closely by falls to a lower level (3,343) and being caught in/between equipment (3,311). 
 
-•  Manufacturing has the highest amputation rate of any sector — 46.7% of Manufacturing incidents involved an amputation, more than double any other sector's rate. 
+•  Manufacturing has the highest amputation rate of any sector 46.7% of Manufacturing incidents involved an amputation, more than double any other sector's rate. 
 
-•  Construction has the lowest amputation rate (15.3%) but the highest hospitalization rate (90.5%) among sectors — incidents are less likely to result in amputation, but almost always serious enough to require hospitalization. 
+•  Construction has the lowest amputation rate (15.3%) but the highest hospitalization rate (90.5%) among sectors incidents are less likely to result in amputation, but almost always serious enough to require hospitalization. 
 
-•  Texas leads all states in incident volume (2,976 incidents, 16.6%), followed by Florida (2,179) — together nearly 29% of all incidents nationally. 
+•  Texas leads all states in incident volume (2,976 incidents, 16.6%), followed by Florida (2,179) together nearly 29% of all incidents nationally. 
 
-•  Postal and package-delivery employers dominate the top-incident list — USPS-related entities and UPS/United Parcel Service together account for well over 200 incidents among just a handful of employer names. 
+•  Postal and package-delivery employers dominate the top-incident list, USPS-related entities and UPS/United Parcel Service together account for well over 200 incidents among just a handful of employer names. 
 
-•  Incident volume held essentially flat year over year — 8,938 incidents in 2023 vs. 8,985 in 2024, a marginal 0.5% increase, showing no meaningful improvement or decline. 
+•  Incident volume held essentially flat year over year, 8,938 incidents in 2023 vs. 8,985 in 2024, a marginal 0.5% increase, showing no meaningful improvement or decline. 
 
-•  Loss of eye is rare relative to other severe outcomes — just 11 cases (0.06%) compared to 4,837 amputation cases and 14,616 hospitalization instances. 
+•  Loss of eye is rare relative to other severe outcomes, just 11 cases (0.06%) compared to 4,837 amputation cases and 14,616 hospitalization instances. 
 
-•  Manufacturing and Construction together account for over half of all incidents outside the general "Other" sector bucket — reinforcing that heavy-industry and physical-labor sectors carry the bulk of severe-injury risk.
+•  Manufacturing and Construction together account for over half of all incidents outside the general "Other" sector bucket, reinforcing that heavy-industry and physical-labor sectors carry the bulk of severe-injury risk.
 
 
 6.	Files Included
